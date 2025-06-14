@@ -7,12 +7,12 @@
 
   "env": {
     "SESSION_ID": {
-      "description": "Put your session id here.",
+      "description": "A30i1JLL#zU9S6QVPl8wax8cOEbynOjVLKd3QjnwTqLwwwBxtgx0",
       "required": true
     },  
 
     "ALIVE_IMG": {
-      "description": "Put your alive img here.",
+      "description": "https://telegra.ph/file/3d654906b786d038138ff.jpg",
       "required": true
     },
     
